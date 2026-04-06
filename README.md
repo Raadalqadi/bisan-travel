@@ -1,22 +1,39 @@
 # Bisan Travel
 
-Travel platform developed as a Full-Stack Developer.
+Full-stack travel platform built to manage booking workflows, administration, and dynamic content.
 
-## Project Info
-- Role: Full-Stack Developer
-- Type: Travel Platform
-- Tech Stack: React, TypeScript, SCSS, Node.js, Express, MySQL
-- Live Site: https://www.bisantravel.com/
+## Overview
+Bisan Travel is a production-oriented travel platform created to support booking operations and admin-side management from a single system. The project combines a responsive frontend with backend tools for permissions, content handling, and business workflows.
 
-## Highlights
+## My Role
+- Full-Stack Developer
+- Responsibility: Frontend, backend, dashboard/admin panel, authentication, deployment, and system integration
+
+## Tech Stack
+- React
+- TypeScript
+- SCSS
+- Node.js
+- Express.js
+- MySQL
+
+## Key Features
 - Booking system
 - Dashboard and admin panel
-- RBAC permissions
+- Role-based access control
 - File upload support
 - Search, filtering, and pagination
 - API integrations
-- JWT and session-based authentication
-- Deployment with cPanel, SSH, and server management
+- JWT authentication
+- Session-based authentication
+- Deployment with cPanel and SSH workflows
 
-## Note
-The full source code will be added later. This repository is currently used to document the project and preserve its public reference.
+## Live Project
+- Website: https://www.bisantravel.com/
+
+## Project Status
+- Full source code will be added later
+- This repository is currently published as a documented project reference
+
+## Notes
+This repository has been prepared as a public portfolio entry and can be expanded later with the full source code.
