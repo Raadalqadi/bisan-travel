@@ -1,5 +1,7 @@
 # Bisan Travel
 
+![Bisan Travel Preview](./assets/preview.jpg)
+
 Full-stack travel platform built to manage booking workflows, administration, and dynamic content.
 
 ## Overview
